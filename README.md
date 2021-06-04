@@ -11,4 +11,4 @@ I am Abdelrazak elrabee , I recently enrolled in a Software development course a
 2. [GIT](https://abdelrazakgo.github.io/Reading-Notes/GM)
 3. [Markdown Lg.](https://abdelrazakgo.github.io/Reading-Notes/MD)
 
-- ## [Class 201](https://abdelrazakgo.github.io/Reading-Notes/C201)
+- ## [Class 201](https://abdelrazakgo.github.io/Reading-Notes/c201)
