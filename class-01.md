@@ -1,4 +1,4 @@
-![Html Css](https://images-na.ssl-images-amazon.com/images/I/81aZlKYjIBL.jpg)
+![Html Css](https://images-na.ssl-images-amazon.com/images/I/81aZlKYjIBL.jpg )
 &copy HTML & CSS
 Design and Build Websites
 BY **Jon Ducket**
@@ -73,3 +73,68 @@ using size, color, and style.
 - You can use grouping and similarity to help simplify 
 the information you present.
 
+![js](https://datavisioner.net/wp-content/uploads/2020/04/javascript-illustration.png)
+
+# How Javascript makes web pages more interactive 
+
+To put things simply, JavaScript is used to create responsive, interactive elements for web pages, enhancing the user experience.Things like menus, animations, video players, interactive maps, and even simple in-browser games can be created quickly and easily with JavaScript.
+
+JavaScript allows us to make web pages more interactive by accessing and modifying the content and markup used in web page while it is being viewed in the browser.
+
+![abc](https://m.media-amazon.com/images/I/51Fn-6bJEHL._SX260_.jpg)
+
+### A
+
+What is a script ?
+
+- A script is a series of instructions that a computer can follow to achieve a goal.
+
+- script are made up of instructions a computer can follow step by step  
+
+- a browser may use different parts of the script depending on how the user interacrs with the web page.
+
+- scripts can run different sections of the code in response to the situation around them 
+
+- each time the script runs , it might only use a subset of all the instructions
+
+- to approach writting a script , one must break down the goal into a series of tasks and then work out each step needed to complete that task 
+
+![flowchart](https://cdn.ourcodeworld.com/public-media/gallery/gallery-574c2766d2832.png)
+
+### B
+How do computer fit in with the world around them ?
+
+
+![pc](https://slideplayer.com/slide/17900808/108/images/2/How+do+Computer+Programs+Fit+in+with+the+World+Around+Them.jpg)
+
+- COMPUTERS CREATE 
+MODELS OF THE WORLD 
+USING DATA
+
+- the models use objects to represent physical things
+
+- programmers can write code to say "when this event occurs,runthat code
+
+
+
+### C
+
+How do I write a script for a web page? 
+ 
+![fit](https://slideplayer.com/slide/16324903/95/images/2/How+HTML%2C+CSS%2C+and+JS+Fit+Together.jpg)
+
+ *To write a script, you need to first 
+state your goal and then list the 
+tasks that need to be completed in 
+order to achieve it* 
+
+- It is best to keep JavaScript code in its own JavaScript 
+file. JavaScript files are text files (like HTML pages and 
+CSS style sheets), but they have the . j s extension. 
+- The HTML <script> element is used in HTML pages 
+to tell the browser to load the JavaScript file (rather like 
+the <link> element can be used to load a CSS file). 
+- If you view the source code of the page in the browser, 
+the JavaScript will not have changed the HTML, 
+because the script works with the model of the web 
+page that the browser has created.
