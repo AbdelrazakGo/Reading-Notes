@@ -50,3 +50,14 @@ All cars have the same methods, but the methods are performed at different times
 **Date, Math, String, Array, and Object.**
 
 The built-in objects are Date, Math, String, Array, and Object. Each is used in a unique and not-quite-consistent way. Furthermore, newer versions of JavaScript (as found in Netscape "Atlas," currently in beta) implement several of these objects in a different manner than in Netscape 2.0. In this column we will address these built-in objects and how to use them. And we'll make note of the quirks you'll encounter as you apply these objects to your JavaScript pages.
+
+![pair](https://guide.eoscostarica.io/img/PairMobProgramming/PairProgramming.png)
+
+Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
+
+### Pair Programming Advantages
+
+- An effective way to share knowledge
+- Fewer coding mistakes.
+- More efficient.
+- Two heads are better than one
